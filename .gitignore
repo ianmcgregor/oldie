@@ -1,0 +1,35 @@
+# OS
+
+.*
+!/.gitignore
+!/.travis.yml
+
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# VCS
+
+.svn
+*.orig
+!.gitinclude
+
+# IDE
+
+.settings/
+.project
+user.properties
+.idea?
+.metadata/*
+*.ignore
+*.sublime-*
+*~
+*.swp
+*.swo
+
+# FOLDERS
+
+bower_components/
+node_modules/
+tmp/
