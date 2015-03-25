@@ -9,9 +9,9 @@ Needed for ie8
 <https://github.com/jonathantneal/EventListener>
 
 ### classList
-Needed for ie8 and ie9
+Full polyfill needed for ie8 and ie9, partial for ie10 and ie11
 
-<https://github.com/remy/polyfills>
+<https://github.com/eligrey/classList.js>
 
 ### console
 Needed for ie8
